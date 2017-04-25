@@ -1,0 +1,1 @@
+module.exports = require("npm:wordcloud@1.0.6/src/wordcloud2.js");

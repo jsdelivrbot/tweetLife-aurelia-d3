@@ -1,0 +1,1 @@
+module.exports = require("npm:supports-color@3.2.3/browser.js");

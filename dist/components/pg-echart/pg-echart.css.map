@@ -1,0 +1,1 @@
+{"version":3,"sources":["pg-echart.css"],"names":[],"mappings":"AAAA;EACE,mBAAmB;EACnB,OAAO;EACP,SAAS;EACT,UAAU;EACV,QAAQ;EACR,gBAAgB,EAAE","file":"pg-echart.css","sourcesContent":[".pg-echart {\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  padding: 0 24px; }\n"]}

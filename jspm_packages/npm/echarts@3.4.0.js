@@ -1,0 +1,1 @@
+module.exports = require("npm:echarts@3.4.0/index");

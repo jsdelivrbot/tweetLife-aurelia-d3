@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/no-data/no-data.js"],"names":["NoData"],"mappings":";;;;;;;;;AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;IAGaA,M,WAAAA,M","file":"no-data.js","sourceRoot":"/src","sourcesContent":["import { inject, bindable, containerless } from 'aurelia-framework';\n\n@containerless\nexport class NoData {\n    @bindable data;\n}\n"]}

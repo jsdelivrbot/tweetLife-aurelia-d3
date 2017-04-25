@@ -1,0 +1,1 @@
+module.exports = require("npm:fizzy-ui-utils@2.0.4/utils.js");

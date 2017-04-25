@@ -1,0 +1,1 @@
+module.exports = require("npm:@pg/htmlkit@1.3.0/index");

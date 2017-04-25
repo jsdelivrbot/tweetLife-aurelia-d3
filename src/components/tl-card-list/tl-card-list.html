@@ -1,0 +1,7 @@
+<template>
+    <pg-card-view>
+      <template repeat.for="record of cardsData">
+        <cb-card model.bind="record" view-handler.bind="click"></cb-card>
+      </template>
+    </pg-card-view>
+</template>

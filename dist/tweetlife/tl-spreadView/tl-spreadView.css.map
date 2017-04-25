@@ -1,0 +1,1 @@
+{"version":3,"sources":["tl-spreadView.css"],"names":[],"mappings":"AAAA;EACE,mBAAmB;EACnB,WAAW;EACX,YAAY,EAAE","file":"tl-spreadView.css","sourcesContent":[".tl-spread-view__btngroup {\n  position: absolute;\n  top: -48px;\n  right: 20px; }\n"]}

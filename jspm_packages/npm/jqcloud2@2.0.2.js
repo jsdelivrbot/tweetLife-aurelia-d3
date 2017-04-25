@@ -1,0 +1,1 @@
+module.exports = require("npm:jqcloud2@2.0.2/dist/jqcloud.js");

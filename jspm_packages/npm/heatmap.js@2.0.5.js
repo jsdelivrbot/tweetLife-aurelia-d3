@@ -1,0 +1,1 @@
+module.exports = require("npm:heatmap.js@2.0.5/build/heatmap.js");

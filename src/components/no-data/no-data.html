@@ -1,0 +1,6 @@
+<template>
+    <require from="./no-data.css"></require>
+    <div class="no-data" if.bind="!(data && data.length)">
+        <div class="no-data-text text-muted">No results</div>
+    </div>
+</template>

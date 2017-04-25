@@ -1,0 +1,1 @@
+{"version":3,"sources":["tweetlife.js"],"names":["configure","tweetlifeRoutes"],"mappings":";;;;;;;AAAA;;QAESA,S;QAAWC,e","file":"tweetlife.js","sourceRoot":"/src","sourcesContent":["import { configure, tweetlifeRoutes} from \"./tweetlife/index\";\n\nexport { configure, tweetlifeRoutes};"]}

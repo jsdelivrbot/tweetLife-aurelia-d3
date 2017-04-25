@@ -1,0 +1,1 @@
+module.exports = require("github:zakjan/Leaflet.vector-markers@master/dist/leaflet-vector-markers.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:leaflet-control-geocoder@1.5.4/dist/Control.Geocoder.js");

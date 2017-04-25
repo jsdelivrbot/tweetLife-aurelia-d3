@@ -1,0 +1,1 @@
+module.exports = require("github:jsmreese/moment-duration-format@1.3.0/lib/moment-duration-format.js");

@@ -1,0 +1,44 @@
+div.jqcloud {
+  overflow: hidden;
+  position: relative;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 10px;
+  line-height: normal; }
+  div.jqcloud a {
+    font-size: inherit;
+    text-decoration: none; }
+  div.jqcloud span {
+    padding: 0;
+    cursor: pointer; }
+  div.jqcloud span.w1 {
+    color: #eea236;
+    font-size: 100px; }
+  div.jqcloud span.w2 {
+    color: green;
+    font-size: 150px; }
+  div.jqcloud span.w3 {
+    color: blue;
+    font-size: 200px; }
+  div.jqcloud span.w4 {
+    color: pink;
+    font-size: 250px; }
+  div.jqcloud span.w5 {
+    color: #bfbf75;
+    font-size: 300px; }
+  div.jqcloud span.w6 {
+    color: orange;
+    font-size: 350px; }
+  div.jqcloud span.w7 {
+    color: black;
+    font-size: 400px; }
+  div.jqcloud span.w8 {
+    color: salmon;
+    font-size: 450px; }
+  div.jqcloud span.w9 {
+    color: purple;
+    font-size: 500px; }
+  div.jqcloud span.w10 {
+    color: red;
+    font-size: 550px; }
+
+/*# sourceMappingURL=pg-wordcloud.css.map */

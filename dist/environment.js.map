@@ -1,0 +1,1 @@
+{"version":3,"sources":["environment.js"],"names":["debug","testing"],"mappings":";;;;;kBAAe;AACbA,SAAO,IADM;AAEbC,WAAS;AAFI,C","file":"environment.js","sourceRoot":"/src","sourcesContent":["export default {\n  debug: true,\n  testing: true\n};\n"]}

@@ -1,0 +1,1 @@
+module.exports = require("npm:batch-processor@1.0.0/src/batch-processor.js");

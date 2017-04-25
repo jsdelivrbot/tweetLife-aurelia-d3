@@ -1,0 +1,1 @@
+module.exports = require("npm:lodash.groupby@4.6.0/index");

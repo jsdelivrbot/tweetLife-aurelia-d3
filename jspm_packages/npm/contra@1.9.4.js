@@ -1,0 +1,1 @@
+module.exports = require("npm:contra@1.9.4/contra.js");

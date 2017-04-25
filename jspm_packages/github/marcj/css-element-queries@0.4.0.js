@@ -1,0 +1,1 @@
+module.exports = require("github:marcj/css-element-queries@0.4.0/index.js");

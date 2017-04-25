@@ -1,0 +1,13 @@
+MultipleErrors: /Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/banner.end.js:2:3: Illegal return statement
+/Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/banner.end.js:6:1: Unexpected token }
+
+MultipleErrors: /Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/banner.start.js:7:1: Unexpected token End of File
+/Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/banner.start.js:7:1: Unexpected token End of File
+
+MultipleErrors: /Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/wrapper.end.js:11:3: Illegal return statement
+/Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/wrapper.end.js:12:1: Unexpected token }
+
+MultipleErrors: /Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/wrapper.start.js:24:1: Unexpected end of input
+/Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/wrapper.start.js:24:1: Unexpected token End of File
+/Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/wrapper.start.js:24:1: Unexpected token End of File
+/Users/JosephLiu/.jspm/packages/npm/select2@4.0.3/src/js/wrapper.start.js:24:1: Unexpected token End of File

@@ -1,0 +1,1 @@
+module.exports = require("npm:tether-drop@1.4.2/dist/js/drop.js");

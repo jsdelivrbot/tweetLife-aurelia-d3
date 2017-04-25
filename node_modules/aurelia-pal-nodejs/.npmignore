@@ -1,0 +1,17 @@
+.vscode
+.github
+.idea
+*.map
+doc/
+spec/
+build/
+src/
+.editorconfig
+circle.yml
+CONTRIBUTING.md
+gulpfile.js
+ISSUE_TEMPLATE.md
+tsconfig.json
+tsfmt.json
+tslint.json
+

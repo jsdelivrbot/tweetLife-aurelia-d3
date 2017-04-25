@@ -1,0 +1,1 @@
+module.exports = require("github:henrythasler/Leaflet.Geodesic@master/Leaflet.Geodesic.js");

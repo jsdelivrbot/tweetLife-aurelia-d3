@@ -1,0 +1,33 @@
+$colors:(
+    1:#eea236,
+    2:green,
+    3:blue,
+    4:pink,
+    5:#bfbf75,
+    6:orange,
+    7:black,
+    8:salmon,
+    9:purple,
+    10:red
+    );
+div.jqcloud {
+    overflow: hidden;
+    position: relative;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 10px;
+    line-height: normal;
+    a {
+        font-size: inherit;
+        text-decoration: none;
+    }  
+    span{
+        padding: 0;
+        cursor:pointer;
+    }
+    @for $i from 1 through 10{
+    span.w#{$i} {
+        color: map-get($colors,$i );     
+        font-size:50px*($i+1);
+    }
+}
+}

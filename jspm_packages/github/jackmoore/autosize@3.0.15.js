@@ -1,0 +1,1 @@
+module.exports = require("github:jackmoore/autosize@3.0.15/dist/autosize");

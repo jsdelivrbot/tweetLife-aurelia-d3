@@ -1,0 +1,11 @@
+<template>
+    <require from="../pg-echart/pg-echart"></require>
+    <require from="../no-data/no-data"></require>
+    <require from="../../components/tl-default-view/tl-default-view"></require>
+    <div if.bind="!defaultView" class="piechart" style="height: 100%;">
+       
+        <echart  data.bind="geoData" loading.bind="loading" options.bind="options" style="height:100%; display: block"></echart>
+       <no-data if.bind="!loading" data.bind="geoData"></no-data>
+    </div>
+    <tl-default-view if.bind="defaultView" icon="pie-chart"></tl-default-view>
+</template>

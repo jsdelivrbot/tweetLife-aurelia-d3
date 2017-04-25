@@ -1,0 +1,1 @@
+{"version":3,"sources":["resources/index.js"],"names":["configure","config"],"mappings":";;;;;QAAgBA,S,GAAAA,S;AAAT,SAASA,SAAT,CAAmBC,MAAnB,EAA2B,CAEjC","file":"index.js","sourceRoot":"/src","sourcesContent":["export function configure(config) {\n  //config.globalResources([]);\n}\n"]}

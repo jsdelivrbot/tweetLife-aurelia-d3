@@ -1,0 +1,1 @@
+module.exports = require("npm:leaflet-draw@0.4.9/dist/leaflet.draw.js");

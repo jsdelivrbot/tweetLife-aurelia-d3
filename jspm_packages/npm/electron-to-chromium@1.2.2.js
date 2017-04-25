@@ -1,0 +1,1 @@
+module.exports = require("npm:electron-to-chromium@1.2.2/index.js");

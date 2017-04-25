@@ -1,0 +1,1 @@
+module.exports = require("npm:autoprefixer@6.7.2/lib/autoprefixer");
